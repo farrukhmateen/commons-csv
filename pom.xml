@@ -439,7 +439,7 @@ CSV files of various types.
       </dependencies>
       
       <properties>
-        <skipTests>true</skipTests>
+        <skipTests>false</skipTests>
         <benchmark>org.apache</benchmark>
       </properties>
       
